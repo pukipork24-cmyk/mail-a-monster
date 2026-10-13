@@ -1,0 +1,11 @@
+# Verified downloads and local tooling; reproduce with tools/setup.py.
+.tools/
+__pycache__/
+*.pyc
+.DS_Store
+*.rbxl.lock
+*.rbxlx.lock
+# Local Studio auto-recovery and temporary outputs.
+AutoSaves/
+*.tmp
+# The built place is deliberately included for direct Studio import.
